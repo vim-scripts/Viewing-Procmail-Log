@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=894
+
+Here is a syntax file for viewing Procmail log.  The syntax works at least w/ vim 6.2.
+
+I have commented [out] my preferred colors; otherwise did my best to have reasonable colors wrt dark background.
+
+Refer to http://www103.pair.com/parv/comp/unix/cf/vim/procmail.vim for any updates.  Before you replace the syntax file from here, mind that the one exeternally available is not as generous regarding other syntax.  For one, the external one starts w/ "syn clear" unconditionally.
